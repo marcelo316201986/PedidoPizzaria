@@ -1,8 +1,10 @@
 controle de vendas
 
 pizzaria: Pizza Alegre
-Versão:001
+Versão:002
 Operador:
 
 Telefone:
 Cliente:
+CPF:
+E-mail:
