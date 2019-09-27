@@ -8,3 +8,5 @@ Telefone:
 Cliente:
 CPF:
 E-mail:
+
+aceita participar:? ()Sim()Não
